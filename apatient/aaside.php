@@ -19,7 +19,7 @@
                                 aria-expanded="false"><i data-feather="tag" class="fa fa-television"></i><span
                                     class="hide-menu">Clients</span></a></li>
         <li class="sidebar-item"> <a class="sidebar-link sidebar-link" href="<?php eval(base64_decode('CiBnb3RvIFdOM3pHOyBQWWluMjogZWNobyAkX1NFU1NJT05bIlx4NzVceDczXHg2NVx4NzJcMTU2XDE0MVx4NmRcMTQ1Il07IGdvdG8gc0tCYTc7IFdOM3pHOiA/PgppbnZlbnRvcnkucGhwP3VzZXI9PD9waHAgIGdvdG8gUFlpbjI7IHNLQmE3OiA=')); ?>"
-                                aria-expanded="false"><i data-feather="tag" class="fa fa-diamond"></i><span
+                                aria-expanded="false"><i data-feather="tag"  class="fa-solid fa-cart-shopping"></i></i><span
                                     class="hide-menu">Payments</span></a></li>
            <li class="sidebar-item"> <a class="sidebar-link sidebar-link" href="<?php eval(base64_decode('CiBnb3RvIEtCbmsxOyBLQm5rMTogPz4KYXNzZXRzMS5waHA/dXNlcj08P3BocCAgZ290byBSYWpSMzsgUmFqUjM6IGVjaG8gJF9TRVNTSU9OWyJcMTY1XHg3M1wxNDVcMTYyXDE1Nlx4NjFceDZkXHg2NSJdOyBnb3RvIHp5bmYzOyB6eW5mMzog')); ?>"
                                 aria-expanded="false"><i data-feather="tag" class="fa fa-diamond"></i><span
