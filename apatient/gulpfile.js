@@ -19,7 +19,7 @@ function style() {
         //2.pass through compiler
         .pipe(sass().on('error', sass.logError))
 
-        //3.wher to save css
+        //3.wher to save css2
         .pipe(gulp.dest(cssDest))
 
         .pipe(browserSync.stream());
